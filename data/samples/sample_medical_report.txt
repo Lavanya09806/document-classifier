@@ -1,0 +1,37 @@
+CLINICAL ENCOUNTER SUMMARY & MEDICAL REPORT
+        St. Jude Memorial Hospital | Outpatient Clinic
+        
+        PATIENT DEMOGRAPHICS:
+        Patient Name: Rachel Green
+        Date of Birth: 10/8/1981
+        Gender: Male
+        Date of Encounter: June 15, 2026
+        Primary Physician: Dr. Elizabeth Blackwell, MD
+        
+        CLINICAL PRESENTATION & CHIEF COMPLAINT:
+        The patient presents with persistent non-productive cough, fatigue, and low-grade fever for 4 days. Symptoms have been persistent, affecting daily routines. No history of travel or exposure to known sick contacts.
+        
+        VITAL SIGNS:
+        - Blood Pressure: 128/73 mmHg (sitting)
+        - Heart Rate: 72 bpm (regular)
+        - Temperature: 101.3 F (oral)
+        - Respiratory Rate: 14 breaths/min
+        - SpO2: 99% on room air
+        
+        PHYSICAL EXAMINATION:
+        General: Well-developed, well-nourished individual in mild distress.
+        Chest/Lungs: Clear to auscultation bilaterally, no wheezes or rales.
+        Cardiovascular: Normal S1, S2, regular rhythm, no murmurs detected.
+        Abdomen: Soft, non-distended, mild tenderness as noted in report.
+        
+        ASSESSMENT / DIAGNOSIS:
+        Acute Pharyngitis - symptomatic treatment initiated.
+        
+        TREATMENT PLAN & PRESCRIPTION:
+        1. Rx: Ibuprofen 400mg - every 6 hours as needed for pain. Take exactly as directed.
+        2. Rest and adequate hydration. Avoid strenuous physical activity for 72 hours.
+        3. Follow-up in clinic in 10 days if symptoms do not improve.
+        4. Patient instructed to present to the Emergency Department immediately if chest pain, severe dyspnea, or high fever develops.
+        
+        Dr. Elizabeth Blackwell, MD
+        License Number: MD-9827364-CA

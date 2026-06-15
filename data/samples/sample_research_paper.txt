@@ -1,0 +1,33 @@
+Evaluating Classical Machine Learning Algorithms for Document Genre Sorting
+        
+        Author Names: Dr. Arthur Pendelton, Prof. Beverly Crusher
+        Department of Computer Science and Intelligent Systems
+        Oxford University & Harvard University
+        
+        ABSTRACT
+        In this paper, we explore the performance of classical machine learning models for the task of document classification. Using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization, we extract key lexical features from structured and unstructured documents. We evaluate three popular classification algorithms: Multinomial Naive Bayes, Logistic Regression, and Support Vector Machines (SVM). Experimental results show that while SVM achieves the highest overall accuracy (97.4%), Multinomial Naive Bayes offers superior training speed and handles sparse high-dimensional data exceptionally well.
+        
+        1. INTRODUCTION
+        Document classification is a fundamental problem in Natural Language Processing (NLP) with applications in legal document analysis, medical record sorting, invoice routing, and automated news categorization. The volume of digital text requires automated techniques to filter and route records.
+        
+        2. METHODOLOGY AND DATA PREPROCESSING
+        We compile a corpus of document classes: Resumes, Invoices, Medical Reports, Legal Documents, News Articles, and Research Papers.
+        The text preprocessing pipeline involves:
+        - Case normalization (converting all characters to lowercase).
+        - Stripping special characters and digits.
+        - Vectorization via TF-IDF:
+          TF-IDF(t, d, D) = TF(t, d) * IDF(t, D)
+        
+        3. EXPERIMENTAL SETUP AND RESULTS
+        Our model was evaluated using a stratified 80/20 train-test split. Table 1 outlines the performance metrics across all models.
+        - Support Vector Machine: Accuracy 97.4%, Precision 97.1%, Recall 97.4%
+        - Logistic Regression: Accuracy 96.2%, Precision 96.3%, Recall 96.2%
+        - Multinomial Naive Bayes: Accuracy 94.8%, Precision 95.0%, Recall 94.8%
+        
+        4. CONCLUSION & FUTURE WORK
+        We demonstrated that classical machine learning algorithms paired with TF-IDF features remain highly competitive baselines for domain-specific text classification. Future investigations will evaluate dense embeddings.
+        
+        REFERENCES
+        [1] Smith, J. and Jones, A. "Text Classification in the Digital Era." Journal of NLP Research, 2024.
+        [2] Bengio, Y. "Representations for Natural Language." IEEE Transactions, 2021.
+        [3] Cover, T. and Thomas, J. "Elements of Information Retrieval." 2018.
